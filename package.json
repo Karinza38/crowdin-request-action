@@ -35,7 +35,7 @@
     "@actions/github": "^6.0.0",
     "@crowdin/crowdin-api-client": "^1.36.0",
     "axios": "^1.7.7",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "js-yaml": "^4.1.0",
     "normalize-url": "^8.0.1"
   },
