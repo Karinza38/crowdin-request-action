@@ -36,7 +36,7 @@
     "@crowdin/crowdin-api-client": "^1.36.0",
     "axios": "^1.7.7",
     "dotenv": "^16.4.5",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "normalize-url": "^8.0.1"
   },
   "devDependencies": {
